@@ -7,23 +7,22 @@ import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { services, barbers } from '@/lib/data';
 
 export default function Home() {
-  const heroImage = PlaceHolderImages.find((img) => img.id === 'hero-1');
   const featuredServices = services.slice(0, 3);
   const featuredBarbers = barbers.slice(0, 2);
 
   return (
     <div className="flex flex-col min-h-dvh">
       <section className="relative w-full h-[60vh] md:h-[80vh]">
-        {heroImage && (
+        
           <Image
-            src={heroImage.imageUrl}
-            alt={heroImage.description}
+            src="/barbers-tools.webp"
+            alt="Barber tools on a wooden counter"
             fill
             className="object-cover object-center"
             priority
-            data-ai-hint={heroImage.imageHint}
+            data-ai-hint="Barber tools on a wooden counter"
           />
-        )}
+      
         <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
           <div className="container px-4 md:px-6 text-center text-primary-foreground space-y-4">
             <h1 className="text-4xl font-headline font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl drop-shadow-lg">
