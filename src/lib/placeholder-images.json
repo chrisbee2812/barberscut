@@ -1,0 +1,113 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "Stylish barbershop interior with vintage chairs and brick wall.",
+      "imageUrl": "https://picsum.photos/seed/hero1/1920/1080",
+      "imageHint": "barbershop interior"
+    },
+    {
+      "id": "barber-alex",
+      "description": "Portrait of Alex, a smiling barber.",
+      "imageUrl": "https://picsum.photos/seed/barberalex/400/500",
+      "imageHint": "male portrait"
+    },
+    {
+      "id": "barber-ben",
+      "description": "Portrait of Ben, a barber focused on his work.",
+      "imageUrl": "https://picsum.photos/seed/barberben/400/500",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "barber-chris",
+      "description": "Portrait of Chris, a barber with a beard.",
+      "imageUrl": "https://picsum.photos/seed/barberchris/400/500",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "gallery-1",
+      "description": "A man with a fresh fade haircut.",
+      "imageUrl": "https://picsum.photos/seed/gallery1/600/800",
+      "imageHint": "mens haircut"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Close up of a sharp beard trim.",
+      "imageUrl": "https://picsum.photos/seed/gallery2/600/800",
+      "imageHint": "beard trim"
+    },
+    {
+      "id": "gallery-3",
+      "description": "A classic pompadour hairstyle.",
+      "imageUrl": "https://picsum.photos/seed/gallery3/600/800",
+      "imageHint": "pompadour hairstyle"
+    },
+    {
+      "id": "gallery-4",
+      "description": "A barber giving a hot towel shave.",
+      "imageUrl": "https://picsum.photos/seed/gallery4/800/600",
+      "imageHint": "hot towel"
+    },
+    {
+      "id": "gallery-5",
+      "description": "The interior of the barbershop.",
+      "imageUrl": "https://picsum.photos/seed/gallery5/800/600",
+      "imageHint": "barbershop ambience"
+    },
+    {
+      "id": "gallery-6",
+      "description": "A customer smiling after a haircut.",
+      "imageUrl": "https://picsum.photos/seed/gallery6/800/600",
+      "imageHint": "happy customer"
+    },
+    {
+      "id": "gallery-7",
+      "description": "Man with a textured crop haircut.",
+      "imageUrl": "https://picsum.photos/seed/gallery7/600/800",
+      "imageHint": "mens haircut"
+    },
+    {
+      "id": "gallery-8",
+      "description": "Vintage barber tools laid out.",
+      "imageUrl": "https://picsum.photos/seed/gallery8/800/600",
+      "imageHint": "barber tools"
+    },
+    {
+      "id": "gallery-9",
+      "description": "A stylish man with a well-groomed beard.",
+      "imageUrl": "https://picsum.photos/seed/gallery9/600/800",
+      "imageHint": "man beard"
+    },
+    {
+      "id": "gallery-10",
+      "description": "Barber applying aftershave.",
+      "imageUrl": "https://picsum.photos/seed/gallery10/800/600",
+      "imageHint": "barber aftershave"
+    },
+    {
+      "id": "gallery-11",
+      "description": "Modern haircut with sharp lines.",
+      "imageUrl": "https://picsum.photos/seed/gallery11/600/800",
+      "imageHint": "modern haircut"
+    },
+    {
+      "id": "gallery-12",
+      "description": "Customer relaxing in the barber chair.",
+      "imageUrl": "https://picsum.photos/seed/gallery12/800/600",
+      "imageHint": "barber chair"
+    },
+    {
+      "id": "gallery-13",
+      "description": "Detailed scissor over comb work.",
+      "imageUrl": "https://picsum.photos/seed/gallery13/800/600",
+      "imageHint": "scissor comb"
+    },
+    {
+      "id": "gallery-14",
+      "description": "A young boy getting his first professional haircut.",
+      "imageUrl": "https://picsum.photos/seed/gallery14/600/800",
+      "imageHint": "child haircut"
+    }
+  ]
+}
